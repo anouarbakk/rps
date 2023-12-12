@@ -1,0 +1,18 @@
+#result{
+    height: 100px;
+    width: 500px;
+    background-color: pink;
+    font-size: xx-large;
+}
+.cont{
+    display: flex;
+    justify-content: center;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    margin: 20px;
+}
